@@ -5,4 +5,4 @@ val.revese()
 for i in range(len(val)):
     print(val[i])
     print(*)
-    print(&)
+    print(&&&)
